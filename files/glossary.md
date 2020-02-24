@@ -511,3 +511,9 @@ Some companies that use PaaS every single day are AWS, Google App Engine, VMware
 - https://www.marketjournal.co.uk/public-cloud-platform-as-a-service-paas-market-growth-scenario-2025/80323/
 
 ## SaaS
+SaaS stands for Software as a Service and in its most simplest terms, it allows users to connect to and interact with cloud-based applications over the internet. This option differs from downloading and owning the software on your machines whereas with SaaS you are most likely on a subscription based payment system that renders you a temporary license to access the application.
+
+A Lot of new advantages have come to light with this type of service and more and more businesses are operating and switching to SaaS platforms. They’re less stressful to setup and maintain than in-house software downloads/updates, accessible outside the office and you only pay for what you use so scaling a business is more efficient. CRM, HR and Procurement have seen the most significant increase in usage. While the SaaS has some much upside there are a few drawbacks that could hinder your experience. Data security and access (speed of delivery) are both out of your control when dealing with a SaaS because the data is stored offsite you hope the provider has taken the proper steps to safeguard your information. The access rate can depend on both your internet connection and also the functionality of the servers on the providers side.
+https://azure.microsoft.com/en-us/overview/what-is-saas/  What is SaaS
+https://www.investopedia.com/terms/s/software-as-a-service-saas.asp SaaS investopedia
+https://www.futureofeverything.io/future-saas/ Future of SaaS
